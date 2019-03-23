@@ -1,6 +1,7 @@
 # Jupyter Notebook
 .ipynb_checkpoints/
 data_preprocess/.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
 
 # macOS
 .DS_Store
