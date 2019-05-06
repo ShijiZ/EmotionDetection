@@ -1,2 +1,2 @@
 # EmotionDetection
-This is the project of CS273A Winter.
+This repository is for the final project of UCI CS273A 2019 Winter.
